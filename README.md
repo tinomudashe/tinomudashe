@@ -17,7 +17,7 @@
   <h3>About Me</h3>
 </div>
 
->  👋 Hi, I'm **Tinomudashe**, **React and Java Developer, Full-stack Web Developer, and Software Engineer**. I'm still figuring out if it's true that AI is going to take all dev jobs..
+>  👋 Hi, I'm **Tinomudashe**, **React and Java Developer, Full-stack Web Developer, and Software Engineer**. I'm still figuring out if it's true that AI is going to take all dev jobs...
 
 
 <div style="background-color:#f0f4c3; padding: 10px; border-radius: 5px;">
