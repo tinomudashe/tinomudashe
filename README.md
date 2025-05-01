@@ -68,7 +68,7 @@
   <h3>Connect</h3>
 </div>
 
-* [LinkedIn](https://www.linkedin.com/in/tinomudashe-hapson-marecha---)
+* [LinkedIn](https://www.linkedin.com/in/tinomudashe-hapson-marecha)
 * [GitHub](https://github.com/tinomudashe)
 * [Email](mailto:jnrhapson@yahoo.com)
 
